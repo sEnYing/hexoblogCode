@@ -118,6 +118,7 @@ darkmode: false
 menu:
   home: / || fa fa-home
   vue: /vue/ || fa fa-tags
+  react: /react/ || fa fa-tags
   js: /js/ || fa fa-tags
   css: /css/ || fa fa-tags
   git: /git/ || fa fa-tags
