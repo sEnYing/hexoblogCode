@@ -3,9 +3,9 @@ title: js常用方法汇总
 date: 2023-09-21 17:31:52
 description: 项目内常用的js方法封装
 tags: 
-- JS
+- javascript
 categories: 
-- Js
+- javascript
 ---
 ```javascript
     // 1.格式化金钱
