@@ -43,6 +43,12 @@
           <span>0%</span>
         </div>
       {%- endif %}
+      <div class="wechat_channel">
+        <br>
+        <!-- 这里添加你的二维码图片 -->
+        <img src ="/images/wechat.jpg">
+        <!-- <span>公众号</span> -->
+      </div>
 
     </div>
   </aside>

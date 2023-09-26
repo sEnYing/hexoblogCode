@@ -16,4 +16,9 @@
     {{- __('post.copyright.license_content', next_url(ccURL, ccIcon + ccText)) }}
   </li>
 </ul>
+<div class="wechat_channel">
+  <br>
+  <!-- 这里添加你的二维码图片 -->
+  <img src ="/images/wechat.jpg">
+</div>
 </div>
