@@ -120,7 +120,7 @@ menu:
   archives: /archives/ || fa fa-archive
   categories: /categories/ || fa fa-th
   # schedule: /schedule/ || fa fa-calendar
-  sitemap: /sitemap.xml || fa fa-sitemap
+#  sitemap: /sitemap.xml || fa fa-sitemap
   # commonweal: /404/ || fa fa-heartbeat
   tags: /tags/ || fa fa-tags
   about: /about/ || fa fa-user
@@ -1007,4 +1007,4 @@ post_wordcount:
   separated_meta: true
 # 文章末尾添加“本文结束”标记
 passage_end_tag:
-  enabled: tru
+  enabled: true

@@ -69,11 +69,6 @@ index_generator:
 default_category: uncategorized
 category_map:
 tag_map:
-
-menu:
-  '首页': / || fa fa-home
-  '归档': /archives/ || fa fa-archive
-
 # Metadata elements
 ## https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
 meta_generator: true
@@ -119,5 +114,3 @@ symbols_count_time:
   awl: 2
   wpm: 275
   suffix: "mins."
-sitemap:
-  path: sitemap.xml
