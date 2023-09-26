@@ -1,7 +1,7 @@
 ---
 title: git命令
-date: 2023-09-25 10:42:51
-description： stash/reset/cherry-pick/revert
+date: 2023-09-26 15:47:10
+description: 目前收录-stash/reset/cherry-pick/revert/reflog几个指令
 tags: 
 - git
 categories: 
