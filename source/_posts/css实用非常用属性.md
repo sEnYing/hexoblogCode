@@ -2,8 +2,10 @@
 title: css实用非常用属性
 date: 2023-09-22 10:46:33
 description: css实用非常用属性,修改文字显示省略号，光标颜色，裁剪以及可替换元素的内容宽高
-tags: css
-categories: css
+tags: 
+- css
+categories: 
+- css
 ---
 ```css
 /* 1.可以把 块容器 中的内容限制为指定的行数。并且在超过行数后，在最后一行显示"..." */

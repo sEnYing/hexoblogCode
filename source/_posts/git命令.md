@@ -2,8 +2,10 @@
 title: git命令
 date: 2023-09-25 10:42:51
 description： stash/reset/cherry-pick/revert
-tags: git
-categories: git
+tags: 
+- git
+categories: 
+- git
 ---
 ```git
 # 保存当前未commit的代码
