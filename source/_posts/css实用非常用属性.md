@@ -1,7 +1,7 @@
 ---
 title: css实用非常用属性
 date: 2023-09-22 10:46:33
-description: 
+description: css实用非常用属性,修改文字显示省略号，光标颜色，裁剪以及可替换元素的内容宽高
 tags: css
 categories: css
 ---

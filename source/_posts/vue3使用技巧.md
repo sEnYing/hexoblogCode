@@ -1,6 +1,7 @@
 ---
 title: vue3使用技巧
 date: 2023-09-22 10:31:17
+description：vue3的基础使用技巧，没记住的内容，省的使用时再去百度
 tags: vue
 categories: vue
 ---

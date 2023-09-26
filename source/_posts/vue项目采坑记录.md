@@ -1,6 +1,7 @@
 ---
 title: vue项目采坑记录
 date: 2023-09-25 14:59:04
+description: 开发过程中遇到的坑记录，避免重复踩坑
 tags: bug
 categories: bug
 ---

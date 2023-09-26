@@ -581,8 +581,8 @@ comments:
 
 # Disqus
 disqus:
-  enable: false
-  shortname:
+  enable: true
+  shortname: you-shortname
   count: true
   #post_meta_order: 0
 
@@ -996,3 +996,15 @@ css: css
 js: js
 images: images
 canvas_nest: true
+post_wordcount:
+  item_text: true
+  #字数统计
+  wordcount: true
+  #预览时间
+  min2read: true
+  #总字数,显示在页面底部
+  totalcount: false
+  separated_meta: true
+# 文章末尾添加“本文结束”标记
+passage_end_tag:
+  enabled: tru
