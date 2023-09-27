@@ -581,7 +581,7 @@ comments:
 
 # Disqus
 disqus:
-  enable: true
+  enable: false
   shortname: you-shortname
   count: true
   #post_meta_order: 0
