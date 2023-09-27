@@ -261,9 +261,4 @@
       {% if not is_index %}
       {% include 'passage-end-tag.swig' %}
       {% endif %}
-      {% if not is_index%}
-        <div>
-          {% include 'advert.swig' %}
-        </div>
-      {% endif %}
    </div>
