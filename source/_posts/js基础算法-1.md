@@ -74,6 +74,7 @@ s.push('a')
 s.push('b')
 s.push('c')
 ```
+
 <h3>包含min函数的栈</h3>
 
 ```javascript
