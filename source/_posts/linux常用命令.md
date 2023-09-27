@@ -7,7 +7,7 @@ tags:
 categories:
 - linux
 ---
-<a href="/book/Linux命令大全.CHM">Linux命令大全</a>
+<a href="/book/Linux命令大全.chm">Linux命令大全</a>
 
 <h3>常用命令</h3>
 
