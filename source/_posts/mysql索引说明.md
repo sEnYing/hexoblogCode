@@ -1,11 +1,11 @@
 ---
 title: mysql索引说明
 date: 2023-09-26 16:22:42
-description: **mysql的索引说明，详细了解索引
+description: mysql的索引说明，详细了解索引
 tags:
 - mysql
 categories:
-- mysql**
+- mysql
 ---
 ```text
 ● 可以通过对数据表中的字段创建索引，来提高查询速度
