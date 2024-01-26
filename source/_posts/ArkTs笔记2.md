@@ -47,8 +47,7 @@ this.context.restore() // 恢复画布设置
 
 ### 注意事项/坑点
 
-###### @state直接修饰Date类型，直接报错，解决方法：定义一个class，包含该Date
-
-###### 在EntryAbility中声明PersistentStorage.PersistProp不生效
-
-###### @Preview修饰的组件可以预览，但不能测交互，需在@Entry修饰的页面测交互
+1. @state直接修饰Date类型，直接报错，解决方法：定义一个class，包含该Date
+2. 在EntryAbility中声明PersistentStorage.PersistProp不生效
+3. @Preview修饰的组件可以预览，但不能测交互，需在@Entry修饰的页面测交互
+4. Scroll中只能存在一个组件
